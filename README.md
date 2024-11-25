@@ -6,3 +6,5 @@ Srt project for better learning Time-series Large Model Basic Structure.
 上传自己实现的代码 可以相互检查测试
 
 Issues模块可以用来交流学习过程遇到的问题
+
+## 建议使用维护仓库的同时学习git相关操作 便于以后团队合作开发
