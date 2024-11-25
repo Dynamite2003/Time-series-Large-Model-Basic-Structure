@@ -1,0 +1,3 @@
+# Papers Part
+在open-access文件夹中保存一些时序大模型的近期文章，便于直接从仓库中获取pdf版本
+另外如果发现了其他有价值的时序大模型相关论文，也可以提交commit后push到open-access文件夹下
