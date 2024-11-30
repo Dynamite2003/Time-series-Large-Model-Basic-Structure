@@ -19,4 +19,7 @@ Srt project for better learning Time-series Large Model Basic Structure.
 ## 维护仓库
 - 建议学习使用git操作来进行仓库的维护
 
-
+## 讨论记录
+- 24.11.29
+-   讨论Attention机制，muliti-head架构，encoder-decoder架构，autoformer中的auto-correlation机制，PatchTST的分patch想法
+-   需要自己阅读autoformer, PatchTST, ITransformer文章内容
